@@ -57,3 +57,4 @@ python pdm_gui.py
 ## 目录说明
 - [pdm_gui.py]: 包含 PDM 解析逻辑 (`PDMReader`) 和 UI 界面逻辑 (`PDMGuiApp`) 的核心源文件。
 - `README.md`: 本说明文档。
+- 在.dist/pdmviwer.exe在windows下可直接运行。
